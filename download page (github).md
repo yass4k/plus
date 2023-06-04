@@ -4,5 +4,5 @@ Download information:
 
 OS: Windows 
 
-[Download](https://github.com/yass4k/face/blob/main/download%20instructions.md)
+[Download this software]()
 
