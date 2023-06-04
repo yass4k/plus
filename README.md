@@ -14,8 +14,8 @@ To use the Python version of the software, download the source code. Then run th
 
 ### Website ###
 
-[Website Instructions]()
+[Website Instructions](https://github.com/yass4k/plus/blob/main/download%20page%20(github).md)
 
 ### Download ###
 
-[Download Instructions]()
+[Download Instructions](https://github.com/yass4k/plus/blob/main/website.md)
